@@ -1,0 +1,11 @@
+1. Security Assessments (Foundational)
+
+1a. Basic security posture review
+
+1b. Workstation & device security check (OS updates, antivirus status, configurations)
+
+1c. User account & permission review
+
+1d. Cloud account security check (Microsoft 365, Google Workspace, etc.)
+
+1e. Vulnerability scanning (using safe, automated scanners—no exploit work)
